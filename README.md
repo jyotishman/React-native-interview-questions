@@ -203,10 +203,10 @@
 </details>
 
 #### 18. Which of the following components is used to make an input field in React Native?
-- <input/>
-- <TextInput/>
-- <EditInput/>
-- <InputText/>
+- input
+- TextInput
+- EditInput
+- InputText
 <details>
     <summary>Correct answer-</summary>
   
